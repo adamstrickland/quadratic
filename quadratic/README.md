@@ -1,3 +1,0 @@
-# Quadratic
-
-** TODO: Add description **

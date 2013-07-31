@@ -1,2 +1,0 @@
-defmodule Quadratic do
-end
